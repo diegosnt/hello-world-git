@@ -85,3 +85,11 @@ export  $initHighlight;
 | Nombre | Apellido | Documento |
 | ------ | -------- | --------- |
 | Tomas  | Tompson  | 345435353 |
+
+# Citas
+Esto es un texto referencte a una cita que ponemos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la anterior
+> Esto es otra cita.
+
